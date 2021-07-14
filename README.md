@@ -1,2 +1,2 @@
 # python_first
-Ushbu repositoryda pythonga atalga kichik dasdurlar bor
+Ushbu repositoryda pythonga atalga kichik dasturlar bor
